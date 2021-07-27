@@ -1,9 +1,5 @@
 
-import math
 import os
-import random
-import re
-import sys
 
 def compareTriplets(a, b):
     al,bo=0,0
